@@ -1,0 +1,48 @@
+.p {
+    padding-top: 80px;
+    color: #fff;
+}
+
+.contenedor-conocimiento {
+    width: 90%;
+    margin: auto;
+    padding-top: 80px;
+    color: #fff;
+    padding-bottom: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.div-conocimiento {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #000;
+    width: 95%;
+    border: 2px solid #131520;
+    transition: transform 0.5s ease-in-out;
+}
+
+.div-conocimiento img {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.div-conocimiento:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 900px) {
+    .contenedor-conocimiento {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .contenedor-conocimiento {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

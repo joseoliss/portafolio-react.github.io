@@ -1,0 +1,62 @@
+[
+    {
+        "Nombre": ".NET",
+        "Descripcion": "Programación en .net framework y .net Core con el lenguaje de programación c#, creación y consumo de api REST, patón de Modelo Vista Controlador, conexión a bases de datos con ADO.NET y Entity Framework...",
+        "Img": "https://i.ibb.co/BghC0L6/dotnet.png"
+    },
+    {
+        "Nombre": "Node.js (Básico)",
+        "Descripcion": "Programación en node.js con express, aplicaciones monolíticas, api REST, conexión a bases de datos como mongoDB con mongoose y MySql.",
+        "Img": "https://i.ibb.co/BzvCRtj/node.png"
+    },
+    {
+        "Nombre": "React.js (Básico)",
+        "Descripcion": "Single page aplications con la biblioteca React.",
+        "Img": "https://i.ibb.co/mCkgzW0/react.png"
+    },
+    {
+        "Nombre": "Javascript",
+        "Descripcion": "Vanilla Javascript ES6.",
+        "Img": "https://i.ibb.co/jkftDSD/javascript.png"
+    },
+    {
+        "Nombre": "CSS",
+        "Descripcion": "Etilización de páginas para el usuario con CSS, CSS3",
+        "Img": "https://i.ibb.co/h80Sf0m/css.png"
+    },
+    {
+        "Nombre": "Bootstrap",
+        "Descripcion": "Estilización de páSginas con la biblioteca Bootstrap.",
+        "Img": "https://i.ibb.co/2WJYvGp/Bootstrap.png"
+    },
+    {
+        "Nombre": "SQL server",
+        "Descripcion": "Diseño y creación de bases de datos, procedimientos almacenados, joins...",
+        "Img": "https://i.ibb.co/qJYzWWx/salserver.png"
+    },
+    {
+        "Nombre": "MySQL",
+        "Descripcion": "",
+        "Img": "https://i.ibb.co/P5Zpmn9/mysql.png"
+    },
+    {
+        "Nombre": "MongoDB",
+        "Descripcion": "",
+        "Img": "https://i.ibb.co/sQz8QyP/mongo.png"
+    },
+    {
+        "Nombre": "Git",
+        "Descripcion": "Software de control de versiones con GitHub",
+        "Img": "https://i.ibb.co/HFS9t3d/git.png"
+    },
+    {
+        "Nombre": "Telecomunicaciones (Básico)",
+        "Descripcion": "-Configurar los switch y dispositivos finales para proporcionar acceso a recursos de redes locales y remotos. -Configurar los routers para habilitar la conectividad de extremo a extremo entre dispositivos remotos. -Crear esquemas de direccionamiento IPv4 e IPv6 y verificar la conectividad de red entre dispositivos. -Configurar una red pequeña con prácticas recomendadas de seguridad. -Solucionar problemas de conectividad en una red pequeña.",
+        "Img": "https://i.ibb.co/nR1MBy6/telecomunicaciones.png"
+    },
+    {
+        "Nombre": "Windows Server (Básico)",
+        "Descripcion": "Active Directory conocimientos básicos del servicio, DNS, DHCP...",
+        "Img": "https://i.ibb.co/XjTTJkd/windows-server-logo.png"
+    }
+]

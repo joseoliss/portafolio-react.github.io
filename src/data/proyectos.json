@@ -1,0 +1,20 @@
+[
+    {
+        "Nombre": "Save your links",
+        "Descripcion": "Una aplicación creada en Node.js con express, utiliza MySql como base de datos, bcrypt para encriptar las contraseñas, express-handlebars como motor de plantillas, express-session para verificar las sesiones de usuario, passport para iniciar sesión y registrarse, entre otras más.",
+        "Img": "https://i.ibb.co/mN2z4BM/save-Links-Final.png",
+        "Url": "https://github.com/joseoliss/Save_your_links_nodejs"
+    },
+    {
+        "Nombre": "Mi portafolio",
+        "Descripcion": "Un sitio web construido con React.js para que conozcan mi perfil profesional.",
+        "Img": "https://i.ibb.co/ThgszWt/portafolio-Final.png",
+        "Url": "https://github.com/joseoliss/portafolio-react"
+    },
+    {
+        "Nombre": "Ventas",
+        "Descripcion": "Actualmente me encuentro trabajando en un proyecto personal en .net 5. Un Api para un sistema de ventas pegado a SQL Server. La idea usar el api para crear el front-end con MVC.NET Core, y para aprender una tecnología móvil, como Xamarin o React Native que son multiplataforma.",
+        "Img": "https://i.ibb.co/51z52zH/ventas.png",
+        "Url": "https://github.com/joseoliss"
+    }
+]
