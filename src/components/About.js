@@ -39,22 +39,21 @@ export default function About() {
                     <div className="texto">
                         <h3>Sobre mi</h3>
                         <p>
-                            Estudiante de ingeniería en sistemas en la universidad americana, estoy por terminar el bachillerato,
-                            me gustaría poder entrar a formar parte de una empresa en la que poder aplicar todos mis conocimientos y
-                            habilidades y, al mismo tiempo, que me permita desarrollarme profesionalmente. Soy una persona proactiva,
-                            me gustan los retos y siempre estoy en constante aprendizaje para mejorar día a día.
-                </p>
+                            Analista programador con 10 meses de experiencia XD, encargado de llevar a cabo los desarrollos 
+                            a la medida que solicitan los clientes de Softdial S.A. 
+                            Full stack en .net con c#.
+                        </p>
                         <h3>Educación</h3>
                         <p>
                             Bachiller en Ingeniería de Sistemas
                             Universidad Americana
                             (2017 – Actual)
-                </p>
+                        </p>
                         <p>
                             Bachiller en Educación media
                             CTP San Juan Sur
                             (2016)
-                </p>
+                        </p>
                     </div>
 
                 </section>
